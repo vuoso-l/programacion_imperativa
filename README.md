@@ -1,6 +1,6 @@
 # Repositorio - programación imperativa
 
-## Trabajo realizado
+## Contenido de la materia
 - Variables
 - Operadores lógicos
 - Control de flujo
